@@ -1,6 +1,10 @@
 (Coming Soon...)
 
-* you should check our wiki: https://github.com/agile-samurai-ja/support/wiki
+Here's support page for "The Agile Samurai" Japanese Translation Edition.
 
-* the hashtag on Twitter: [#agilesamurai](http://twitter.com/#!/search/%23agilesamurai)
-* the tag on social bookmark service: [agilesamurai](http://b.hatena.ne.jp/t/agilesamurai?sort=eid)
+* Wikiにいろいろ書いていく予定です: https://github.com/agile-samurai-ja/support/wiki
+* 誤字脱字などを発見したら、issues に報告いただけると助かります: https://github.com/agile-samurai-ja/support/issues
+
+* Twitterでのハッシュタグは [#agilesamurai](http://twitter.com/#!/search/%23agilesamurai) です。
+* ブックマークのタグは [agilesamurai](http://b.hatena.ne.jp/t/agilesamurai?sort=eid) です。
+
