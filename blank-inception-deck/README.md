@@ -4,6 +4,12 @@
 
 keynote版とPowerPoint版を用意しています。
 
+## テンプレートにいて
+
+* 原文: https://agilewarrior.wordpress.com/2010/11/06/the-agile-inception-deck/
+* 原著者: Jonathan Rasmusson
+* ライセンス: cc-by (バージョン不明)
+
 ## 『アジャイルサムライ』について
 
 ### 紙版書籍
