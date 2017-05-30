@@ -8,7 +8,7 @@ Here's support page for "The Agile Samurai" Japanese Translation Edition.
 ## リソース
 
 * 日本語版のインセプションデッキのテンプレートは、 https://github.com/agile-samurai-ja/support/tree/master/blank-inception-deck にあります
-* 大きめの書影(583px x 827px)の画像は、https://github.com/agile-samurai-ja/support/tree/master/cover-image にあります
+* 大きめの書影（カバー表1画像）は、https://github.com/agile-samurai-ja/support/tree/master/cover-image にあります
 
 ## ソーシャルタグ
 
