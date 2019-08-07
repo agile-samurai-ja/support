@@ -8,4 +8,4 @@
 
 1. [Cacoo](https://cacoo.com)にログインする
 1. [テンプレート](https://cacoo.com/diagrams/nsgCdwRZAHJBXTLy)を開く
-1. 右上のメニュー "図の操作" > "コピー" から、自分の図としてコピーする
+1. [図のコピー - Cacooサポート](https://support.cacoo.com/hc/ja/articles/360001619967-%E5%9B%B3%E3%81%AE%E3%82%B3%E3%83%94%E3%83%BC)の"エディターにて"を参考に、自分の図としてコピーする
