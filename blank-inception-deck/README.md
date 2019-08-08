@@ -21,4 +21,5 @@ Cacooでも使えるようになりました。くわしくは[使いかたの�
 * http://honto.jp/netstore/pd-book_03432172.html
 
 ### PDF版書籍データ
-http://estore.ohmsha.co.jp/titles/978427406856P
+
+* https://tatsu-zine.com/books/agile-samurai-ja
